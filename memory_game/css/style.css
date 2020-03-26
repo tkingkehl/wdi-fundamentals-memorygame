@@ -85,6 +85,16 @@ img {
 	padding: 0 0;
 }
 
+.github {
+	text-decoration: none;
+	font-family: "droid serif";
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	padding: 0 0;
+}
+
 .copyright {
 	font-family: raleway;
 	float: left;
